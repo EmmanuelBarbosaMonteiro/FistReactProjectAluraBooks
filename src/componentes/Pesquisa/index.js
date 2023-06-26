@@ -40,7 +40,7 @@ const Resultado = styled.div`
         width: 100px;
     }
 
-    $:hover {
+    &:hover {
         border: 1px solid white;
     }
 `
